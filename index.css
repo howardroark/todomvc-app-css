@@ -228,7 +228,7 @@ label[for='toggle-all'] {
 	content: '×';
 }
 
-.todo-list li:hover .destroy {
+.no-touch .todo-list li:hover .destroy {
 	display: block;
 }
 
